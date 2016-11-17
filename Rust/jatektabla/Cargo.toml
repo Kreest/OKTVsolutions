@@ -1,0 +1,6 @@
+[package]
+name = "jatektabla"
+version = "0.1.0"
+authors = ["Kreest <kreest503@gmail.com>"]
+
+[dependencies]

@@ -1,0 +1,13 @@
+﻿"Mindkét kemencébe egyidejűleg legfeljebb K darab tárgy rakható kiégetésre"
+"A kiégetésre váró tárgyak az elkészülés sorrendjében várakoznak a kiégetésre" -> Nem rendezhetjuk at a listat
+"mindkettőbe legalább egy tárgyat kell rakni egy menetben" -> vegen nem lehet csak az egzik kemencebe berakni a legutolso darabot
+"a következő menet csak akkor kezdődik, ha mindkét kemence befejezte az égetést" -> no cheating
+"az égetési idő az abba a kemencébe tett tárgyak egyedi égetési idejének a maximuma"
+"az összesített égetési idő a lehető legkevesebb legyen"
+"összesített égetési idő" -> 1. kemence osszes egesenek ideje + 2. kemence osszes egesenek ideje (nem annyi, mint amennyi ido alatt kiegeti a targyakat)
+Kulonbseg az 1 kemences peldahoz kepest:
+	Vegyuk ezt a peldat:
+		4 2
+		9 2 9 1
+		Egy kemences: [9 2] [9 1]
+		Ket kemences: [9 9] [2 1] -> az egymas melletti termekek nem feltetlenul kerulnek azonos kemencebe 
