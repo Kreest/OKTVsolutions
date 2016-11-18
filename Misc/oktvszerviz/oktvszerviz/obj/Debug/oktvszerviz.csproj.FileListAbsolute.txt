@@ -1,6 +1,0 @@
-c:\users\kreest\documents\visual studio 2015\Projects\oktvszerviz\oktvszerviz\bin\Debug\oktvszerviz.exe.config
-c:\users\kreest\documents\visual studio 2015\Projects\oktvszerviz\oktvszerviz\bin\Debug\oktvszerviz.exe
-c:\users\kreest\documents\visual studio 2015\Projects\oktvszerviz\oktvszerviz\bin\Debug\oktvszerviz.pdb
-c:\users\kreest\documents\visual studio 2015\Projects\oktvszerviz\oktvszerviz\obj\Debug\oktvszerviz.csprojResolveAssemblyReference.cache
-c:\users\kreest\documents\visual studio 2015\Projects\oktvszerviz\oktvszerviz\obj\Debug\oktvszerviz.exe
-c:\users\kreest\documents\visual studio 2015\Projects\oktvszerviz\oktvszerviz\obj\Debug\oktvszerviz.pdb

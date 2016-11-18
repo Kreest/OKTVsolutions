@@ -1,6 +1,0 @@
-c:\users\kreest\documents\visual studio 2013\Projects\MingrelABC\MingrelABC\bin\Debug\MingrelABC.exe.config
-c:\users\kreest\documents\visual studio 2013\Projects\MingrelABC\MingrelABC\bin\Debug\MingrelABC.exe
-c:\users\kreest\documents\visual studio 2013\Projects\MingrelABC\MingrelABC\bin\Debug\MingrelABC.pdb
-c:\users\kreest\documents\visual studio 2013\Projects\MingrelABC\MingrelABC\obj\Debug\MingrelABC.csprojResolveAssemblyReference.cache
-c:\users\kreest\documents\visual studio 2013\Projects\MingrelABC\MingrelABC\obj\Debug\MingrelABC.exe
-c:\users\kreest\documents\visual studio 2013\Projects\MingrelABC\MingrelABC\obj\Debug\MingrelABC.pdb
