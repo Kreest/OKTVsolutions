@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
 import sys
+from collections import defaultdict
 N, R = map(int, input().split())
 Income = tuple(map(int, input().split()))
 Connections = [tuple(map(int, x.split())) for x in sys.stdin.readlines()]
-Q = set(Connections)
+adj_list = defaultdict(lambda: defaultdict(lambda: 0))
+for a, b, cost in Connections:
+	adj_list[b][a] = cost
+	adj_list[a][b] = cost
 S = R
 values = list(Income)
 stack = []
@@ -18,10 +22,7 @@ def DFS(v):
 		v = S.pop()
 		if v not in labels:
 			labels.add(v)
-			for x in [x for x in filter(lambda x: x[0] == v or x[1] == v, Connections)]:
-				a, b, cost = x
-				source = a if b != v else b
-				child = a if b == v else b
+			for child, cost in adj_list[v].items():
 				if child not in labels:
 					S.append(child)
 					parentmap[child] = (v, cost)
