@@ -20,7 +20,7 @@ fn main() {
 
     //Compute
     	//Get childless nodes
-    let baseset : HashSet<_> = (1..21).collect();
+    let baseset : HashSet<_> = (1..(header[0]+1)).collect();
     let set1 : HashSet<_> = nodes.values().map(|x| x[0]).collect();
     let set2 : HashSet<_> = nodes.values().map(|x| x[1]).collect();
 
