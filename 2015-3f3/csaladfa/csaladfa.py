@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import sys
-import operator
 from functools import reduce
 
 N, M = map(int, input().split())
@@ -19,7 +18,6 @@ for node in childless:
 			for x in parents[v]:
 				stack.append(x)
 				ancestors.add(x)
-
 	ancestries.append(ancestors)
 
 
