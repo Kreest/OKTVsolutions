@@ -1,6 +1,0 @@
-c:\users\kreest\documents\visual studio 2015\Projects\oktvpictures\oktvpictures\bin\Debug\oktvpictures.exe.config
-c:\users\kreest\documents\visual studio 2015\Projects\oktvpictures\oktvpictures\bin\Debug\oktvpictures.exe
-c:\users\kreest\documents\visual studio 2015\Projects\oktvpictures\oktvpictures\bin\Debug\oktvpictures.pdb
-c:\users\kreest\documents\visual studio 2015\Projects\oktvpictures\oktvpictures\obj\Debug\oktvpictures.csprojResolveAssemblyReference.cache
-c:\users\kreest\documents\visual studio 2015\Projects\oktvpictures\oktvpictures\obj\Debug\oktvpictures.exe
-c:\users\kreest\documents\visual studio 2015\Projects\oktvpictures\oktvpictures\obj\Debug\oktvpictures.pdb

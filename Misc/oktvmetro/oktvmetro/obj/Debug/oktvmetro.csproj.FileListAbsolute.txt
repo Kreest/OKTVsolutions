@@ -1,6 +1,0 @@
-c:\users\kreest\documents\visual studio 2015\Projects\oktvmetro\oktvmetro\bin\Debug\oktvmetro.exe.config
-c:\users\kreest\documents\visual studio 2015\Projects\oktvmetro\oktvmetro\bin\Debug\oktvmetro.exe
-c:\users\kreest\documents\visual studio 2015\Projects\oktvmetro\oktvmetro\bin\Debug\oktvmetro.pdb
-c:\users\kreest\documents\visual studio 2015\Projects\oktvmetro\oktvmetro\obj\Debug\oktvmetro.csprojResolveAssemblyReference.cache
-c:\users\kreest\documents\visual studio 2015\Projects\oktvmetro\oktvmetro\obj\Debug\oktvmetro.exe
-c:\users\kreest\documents\visual studio 2015\Projects\oktvmetro\oktvmetro\obj\Debug\oktvmetro.pdb

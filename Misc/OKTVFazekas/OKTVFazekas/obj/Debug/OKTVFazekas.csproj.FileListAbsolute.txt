@@ -1,6 +1,0 @@
-c:\users\kreest\documents\visual studio 2015\Projects\OKTVFazekas\OKTVFazekas\bin\Debug\OKTVFazekas.exe.config
-c:\Users\Kreest\Documents\Visual Studio 2015\Projects\OKTVFazekas\OKTVFazekas\bin\Debug\OKTVFazekas.exe
-c:\Users\Kreest\Documents\Visual Studio 2015\Projects\OKTVFazekas\OKTVFazekas\bin\Debug\OKTVFazekas.pdb
-c:\Users\Kreest\Documents\Visual Studio 2015\Projects\OKTVFazekas\OKTVFazekas\obj\Debug\OKTVFazekas.csprojResolveAssemblyReference.cache
-c:\Users\Kreest\Documents\Visual Studio 2015\Projects\OKTVFazekas\OKTVFazekas\obj\Debug\OKTVFazekas.exe
-c:\Users\Kreest\Documents\Visual Studio 2015\Projects\OKTVFazekas\OKTVFazekas\obj\Debug\OKTVFazekas.pdb
