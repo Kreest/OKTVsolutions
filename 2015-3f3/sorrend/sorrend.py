@@ -9,4 +9,4 @@ def perm(n):
     memo[n] = (n-1) * perm(n-1) + (n-2) * perm(n-2) #The complicated part is deriving this formula, explained in formula.txt
     return memo[n]
 
-print(perm(50))
+print(perm(int(input()))%1000000000)
