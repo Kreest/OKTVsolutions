@@ -1,0 +1,22 @@
+"We know the family tree of a group of islanders. Write a program that gets the common ancestors of the childless islanders"
+Input desc.: The first row consists of two integers, [N] being the number of islanders, [M] being the number of people with known parents. Next [M] rows consist of 3 integers each: the ordinal number of a child, and the ordinal numbers of thair parents.
+Output desc.: First row: number of common ancestors; Second line: ordinal numbers of the common ancestors, or no second line if there are no common ancestors
+
+Example:
+Input				Output
+20 13				5
+4 3 8				16 17 18 19 20
+5 8 9
+6 11 12
+7 13 15
+3 1 16
+8 2 17
+9 16 10
+11 16 10
+12 17 10
+13 16 14
+15 17 14
+16 18 19
+17 19 20
+
+Make illustration
